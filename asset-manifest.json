@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/specFarm-front/static/css/main.7d8c2f57.css",
-    "main.js": "/specFarm-front/static/js/main.8b53ac8f.js",
+    "main.js": "/specFarm-front/static/js/main.f1a9e397.js",
     "static/media/sprout.jpg": "/specFarm-front/static/media/sprout.ee2bb5b09fbc6116e292.jpg",
+    "static/media/crown.png": "/specFarm-front/static/media/crown.5f8c7a37a0cb5b252fb3.png",
     "static/media/defaultProfile.png": "/specFarm-front/static/media/defaultProfile.25770a6f93a9780cb243.png",
     "static/media/askWriteTop.png": "/specFarm-front/static/media/askWriteTop.2808b3bfee0df60cc842.png",
     "static/media/askWriteBottom.png": "/specFarm-front/static/media/askWriteBottom.6a3ad17c5e2392f74042.png",
-    "static/media/logo_green1.png": "/specFarm-front/static/media/logo_green1.7d0f0a3d940209ec9016.png",
+    "static/media/growth.png": "/specFarm-front/static/media/growth.b09ae5ab133ce32aa23b.png",
     "static/media/cert_sprout1.png": "/specFarm-front/static/media/cert_sprout1.805741a5061530441857.png",
+    "static/media/improve.png": "/specFarm-front/static/media/improve.ba1153e58022378403e0.png",
     "index.html": "/specFarm-front/index.html",
     "main.7d8c2f57.css.map": "/specFarm-front/static/css/main.7d8c2f57.css.map",
-    "main.8b53ac8f.js.map": "/specFarm-front/static/js/main.8b53ac8f.js.map"
+    "main.f1a9e397.js.map": "/specFarm-front/static/js/main.f1a9e397.js.map"
   },
   "entrypoints": [
     "static/css/main.7d8c2f57.css",
-    "static/js/main.8b53ac8f.js"
+    "static/js/main.f1a9e397.js"
   ]
 }
