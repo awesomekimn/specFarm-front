@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/specFarm-front/static/css/main.7d8c2f57.css",
-    "main.js": "/specFarm-front/static/js/main.6c7958b6.js",
+    "main.css": "/specFarm-front/static/css/main.dbb2128e.css",
+    "main.js": "/specFarm-front/static/js/main.6de9ff05.js",
     "static/media/sprout.jpg": "/specFarm-front/static/media/sprout.ee2bb5b09fbc6116e292.jpg",
     "static/media/crown.png": "/specFarm-front/static/media/crown.5f8c7a37a0cb5b252fb3.png",
     "static/media/defaultProfile.png": "/specFarm-front/static/media/defaultProfile.25770a6f93a9780cb243.png",
@@ -11,11 +11,11 @@
     "static/media/cert_sprout1.png": "/specFarm-front/static/media/cert_sprout1.805741a5061530441857.png",
     "static/media/improve.png": "/specFarm-front/static/media/improve.ba1153e58022378403e0.png",
     "index.html": "/specFarm-front/index.html",
-    "main.7d8c2f57.css.map": "/specFarm-front/static/css/main.7d8c2f57.css.map",
-    "main.6c7958b6.js.map": "/specFarm-front/static/js/main.6c7958b6.js.map"
+    "main.dbb2128e.css.map": "/specFarm-front/static/css/main.dbb2128e.css.map",
+    "main.6de9ff05.js.map": "/specFarm-front/static/js/main.6de9ff05.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d8c2f57.css",
-    "static/js/main.6c7958b6.js"
+    "static/css/main.dbb2128e.css",
+    "static/js/main.6de9ff05.js"
   ]
 }
